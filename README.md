@@ -1,6 +1,6 @@
 # AirlinePassengerSatisfaction
 
-<font size=4>-- What factors lead to customer satisfaction for an Airline?</font>
+### What factors lead to customer satisfaction for an Airline? ###
 
 Our final project for *MSCA 31008: Data Mining Principles*
 
